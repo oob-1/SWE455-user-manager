@@ -8,7 +8,7 @@ Authentication and user-profile microservice for the Cloud-Based Expense Tracker
 - `POST /login`         — exchange credentials for a JWT (HS256, 1 h)
 - `GET  /users/profile` — return the caller's profile
 - `GET  /health`        — liveness probe
-
+ 
 ## Local development
 
 ```bash
